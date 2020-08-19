@@ -1,15 +1,13 @@
 @media screen and (min-width: 480px) {
-  body {
-    background-color: lightgreen;
+  .wrapper{
+    width: 90%;
+  }
+  #scial {
+    position: absolute;
+    width: auto ;
+    top  : 82px ;
+    right: 4px  ;
   }
 }
-.wrapper{
-  width: 90%;
-}
-#scial {
-  position: absolute;
-  width: auto ;
-  top  : 82px ;
-  right: 4px  ;
-}
+@media screen and (min-width: )
 
