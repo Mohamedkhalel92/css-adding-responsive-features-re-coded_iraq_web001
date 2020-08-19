@@ -1,5 +1,7 @@
 @media screen and (min-width: 700px ){
-  
+.navbar {
+  block: hidden;
+}  
 }
 
 @media screen and (min-width: 750px ){
