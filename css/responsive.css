@@ -56,15 +56,3 @@
   }
 }
 
-
-@media screen and (min-width: 750px ){
-  #navbar {
-    visibility: hidden ;
-  }
-  #logo h1, #logo h2 {
-    visibility:hidden  ;
-  }
-  .menu-icon {
-    visibility:visible ;
-  }
-}
