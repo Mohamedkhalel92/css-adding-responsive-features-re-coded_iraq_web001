@@ -8,6 +8,7 @@
   #logo h1, #logo h2 {
    visibility: hidden;
   }
+  
 }
 
 @media screen and (min-width: 750px ){
